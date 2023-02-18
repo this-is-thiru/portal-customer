@@ -26,6 +26,7 @@ public class CustomerController {
 		
 //		return new ResponseEntity<String>(customerDTO.toString(),HttpStatus.OK);
 	}
+
 	
 //	 RestPointApi-5
 	@PostMapping("validation/idproof")
